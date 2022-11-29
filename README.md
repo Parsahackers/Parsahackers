@@ -1,16 +1,24 @@
-### Hi there 👋
+HI
+IM PARSA_HACKS
+@PARSA_HACKS
 
-<!--
-**Parsahackers/Parsahackers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SMS_BOMBER
+#IRAN
 
-Here are some ideas to get you started:
+⭕️apt update -y
+⭕️apt upgrade -y 
+⭕️pkg install git 
+⭕️pkg install wget
+⭕️pkg install bash 
+⭕️pkg install python
+⭕️pkg install python2
+⭕️pkg install python3
+⭕️pkg install root
+⭕️pkg install curl 
+⭕️pkg install php 
+⭕️termux-setup-storage
+⭕️cd /sdcard/download
+⭕️ls
+⭕️python bomber_parsa.py
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭕️+98913***
